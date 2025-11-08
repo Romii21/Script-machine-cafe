@@ -30,4 +30,4 @@
         	fi
 	`done
 
-![Plan du script](Machine_a_cafe.png)
+![Plan du script](machine_a_cafe.png)
