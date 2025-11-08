@@ -29,3 +29,5 @@
              	    echo "Commande invalide tapez 1, 2, 3, ou x"
         	fi
 	`done
+
+![Plan du script](Machine_a_cafe.png)
