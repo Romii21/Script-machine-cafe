@@ -1,5 +1,7 @@
 # Script-machine-café
 
+![Plan du script](machine_a_cafe.png)
+
 	`#!/bin/bash
 		`# Execution d'une boucle tant qu'elle est fausse
 		`while true; do
@@ -29,5 +31,3 @@
              	    echo "Commande invalide tapez 1, 2, 3, ou x"
         	fi
 	`done
-
-![Plan du script](machine_a_cafe.png)
